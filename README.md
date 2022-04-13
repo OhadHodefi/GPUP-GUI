@@ -59,8 +59,8 @@ Tasks can be, for example: compilation task, testing task etc...
 
 ## My Info
 
-- GitHub - [See My Work](https://github.com/OhadHodefi)
-- LinkedIn - [Ohad Hodefi](https://www.linkedin.com/in/ohad-hodefi/)
+- GitHub - [See My Work](https://github.com/OhadHofi)
+- LinkedIn - [Ohad Hofi](https://www.linkedin.com/in/ohad-hodefi/)
 
 [Back To The Top](#table-of-contents)
 ***
